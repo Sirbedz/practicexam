@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/fourbit/fourbit.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/fourbit/fourbit.srcs/sim_1/new/tb_bitadder.sv,1732623621,systemVerilog,,,,tb_bit8_adder,,,,,,,,
+/home/it/Desktop/fourbit/fourbit.srcs/sources_1/new/fourbit.sv,1732623089,systemVerilog,,/home/it/Desktop/fourbit/fourbit.srcs/sim_1/new/tb_bitadder.sv,,bit4_adder;bit8_adder,,,,,,,,

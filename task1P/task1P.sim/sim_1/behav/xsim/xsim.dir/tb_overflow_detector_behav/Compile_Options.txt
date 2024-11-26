@@ -1,0 +1,1 @@
+-wto "252e22edb55f4223a54bbf0541a13747" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_overflow_detector_behav" "xil_defaultlib.tb_overflow_detector" "xil_defaultlib.glbl" -log "elaborate.log" 
